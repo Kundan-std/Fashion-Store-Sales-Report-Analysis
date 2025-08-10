@@ -5,7 +5,7 @@ Fashion Store Annual Sales Report 2022 analyzes customer demographics, sales tre
 Fashion store wants to create an annual sales report for 2022. So that, Shope-Owner can understand their customers and grow more sales in 2023.
 
 # 📊 Project Description – Fashion Store Annual Sales Report 2022
-This project focuses on creating a comprehensive annual sales report for General Store for the year 2022, with the goal of understanding customer behavior, identifying sales trends, and planning strategies to boost sales in 2023.
+This project focuses on creating a comprehensive annual sales report for Fashion Store for the year 2022, with the goal of understanding customer behavior, identifying sales trends, and planning strategies to boost sales in 2023.
 
 # 1️⃣ Project Introduction
 The Fashion Store Annual Sales Report is designed to answer critical business questions such as top-performing months, best-selling categories, customer demographics, and sales channels performance.
@@ -40,3 +40,13 @@ An Excel Interactive Dashboard was created with:
 * Chart showing total sales, total orders, and average order value
 
 # ✅ Outcome:-This dashboard helps Fashion Store management make "data-driven decisions" to increase customer satisfaction and grow sales in 2023.
+
+# Sample Questions:-
+1.Compare the sales and orders using single chart
+2.Which month got the highest sales and orders?
+3.Who purchased more – men or women in 2022?
+4.What are different order status in 2022?
+5.List top 10 states contributing to the sales?
+6.Relation between age and gender based on number of orders?
+7.Which channel is contributing to maximum sales?
+8.Highest selling category?, etc.
